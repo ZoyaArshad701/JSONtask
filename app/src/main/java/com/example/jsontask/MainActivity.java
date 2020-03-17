@@ -15,6 +15,8 @@ public class MainActivity extends AppCompatActivity {
 
         Gson gson=new Gson();
 
+
+
        /*
         Employee employee = new Employee( firstName: "Ahmad", age: 25, mail: "Ali@gmail.com" );
         String json= gson.toJson(employee);
